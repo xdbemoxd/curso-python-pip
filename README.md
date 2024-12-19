@@ -6,3 +6,11 @@ para correr el juego, debes seguir las instrucciones dadas, escribelos en la ter
 cd game
 python main.py
 ´´´
+
+´´´sh
+git clone
+cd app
+source env/bin/activate
+pip install -r requirements.txt
+python main.py
+´´´
